@@ -1,10 +1,6 @@
 # AI-Powered-CryptoC
 This project integrates blockchain, AI, and a dynamic economic strategy through our ocean equilibrium approach to create a sustainable and adaptive cryptocurrency ecosystem. The system leverages AI for content analysis—detecting both AI-generated and published content—and adjusts mining rewards accordingly.
 
-# AI-Powered Blockchain Crypto Platform
-
-Welcome to the **AI-Powered Blockchain Crypto Platform** – a next-generation system that fuses blockchain technology with advanced AI features to create a dynamic, balanced, and innovative cryptocurrency ecosystem. This project empowers users to create personal cryptocurrencies, mine creative content, trade coins within an "ocean equilibrium" marketplace, and share their treasure moments.
-
 ---
 
 ## Table of Contents
@@ -15,12 +11,9 @@ Welcome to the **AI-Powered Blockchain Crypto Platform** – a next-generation s
 - [Ocean Equilibrium Strategy](#ocean-equilibrium-strategy)
 - [Where AI Is Used](#where-ai-is-used)
 - [Tech Stack](#tech-stack)
-- [Folder Structure](#folder-structure)
 - [Installation & Setup](#installation--setup)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -120,7 +113,7 @@ These values are the cumulative result of mining rewards and dynamic rebalancing
 
 ---
 
-API Endpoints
+## API Endpoints
 
 Some key endpoints (accessible via FastAPI’s interactive docs at /docs):
 
@@ -134,5 +127,19 @@ GET /marketplace/search – Search listings by content title.
 POST /marketplace/buy – Purchase marketplace content.
 POST /share/moment – Share a treasure moment.
 GET /shared/{user} – Retrieve a user’s shared moment.
+
+## Installation Setup
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/himanshudhingra2910/AI-Powered-CryptoC.git
+   cd AI-Powered-CryptoC
+
+2. Setup Python Environment: It is recommended to use a Conda environment:
+conda create -n crypto_env python=3.11
+conda activate crypto_env
+pip install -r requirements.txt
+
+3.Run the API:
+uvicorn api.main:app --reload
 
 
