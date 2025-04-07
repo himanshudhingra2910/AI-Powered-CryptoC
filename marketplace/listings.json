@@ -1,0 +1,18 @@
+[
+    {
+        "id": "himanshu_dhingra_a04c6a",
+        "creator": "himanshu_dhingra",
+        "title": "Spring",
+        "content": "2 lines",
+        "content_type": "text",
+        "price": 10.0,
+        "currency": "skycoin",
+        "buyers": [
+            {
+                "buyer": "himanshu_dhingra",
+                "amount": 10.0,
+                "timestamp": "2025-04-07T19:55:46.472111"
+            }
+        ]
+    }
+]

@@ -1,0 +1,159 @@
+{
+    "difficulty": 2,
+    "chain": [
+        {
+            "index": 0,
+            "timestamp": 1744023146.30161,
+            "transactions": [
+                "Genesis Block"
+            ],
+            "previous_hash": "0",
+            "nonce": 0,
+            "hash": "c74eaf02632aca4c4da63ff843220adac3ec6ad79956faaa7d2a8715bbb9f04e",
+            "difficulty": 2
+        },
+        {
+            "index": 1,
+            "timestamp": 1744023188.405032,
+            "transactions": [
+                "Text mined: Chasing darkness in search of light.",
+                "Sentiment: NEGATIVE, Confidence: 0.95",
+                "Reward: 47 Pikachu"
+            ],
+            "previous_hash": "c74eaf02632aca4c4da63ff843220adac3ec6ad79956faaa7d2a8715bbb9f04e",
+            "nonce": 227,
+            "hash": "004e83f05e0e323535e088c1286dbc5d871575f3cb2376429f94180b97a8973f",
+            "difficulty": 2
+        },
+        {
+            "index": 2,
+            "timestamp": 1744024661.507553,
+            "transactions": [
+                "Text mined: often bad things are accepted in the society.",
+                "Sentiment: NEGATIVE, Confidence: 0.99",
+                "Reward: 49 pikachu"
+            ],
+            "previous_hash": "004e83f05e0e323535e088c1286dbc5d871575f3cb2376429f94180b97a8973f",
+            "nonce": 27,
+            "hash": "00a8577e6e16488116175cd2408c17e91f7c1a6446cd2bb188a657577f9ac207",
+            "difficulty": 2
+        },
+        {
+            "index": 3,
+            "timestamp": 1744025718.144028,
+            "transactions": [
+                "Text mined: let's go and get him.",
+                "Sentiment: POSITIVE, Confidence: 0.98",
+                "Reward: 98 pikachu"
+            ],
+            "previous_hash": "00a8577e6e16488116175cd2408c17e91f7c1a6446cd2bb188a657577f9ac207",
+            "nonce": 19,
+            "hash": "00cd6961ebf748418ec84cd83e1ff04b030ed37f54cb43c39ed90fe9bb624694",
+            "difficulty": 2
+        },
+        {
+            "index": 4,
+            "timestamp": 1744025958.397471,
+            "transactions": [
+                "Text mined: okay bye, see you soon broo\ud83d\udc40",
+                "Sentiment: POSITIVE, Confidence: 1.0",
+                "Reward: 100 pikachu"
+            ],
+            "previous_hash": "00cd6961ebf748418ec84cd83e1ff04b030ed37f54cb43c39ed90fe9bb624694",
+            "nonce": 73,
+            "hash": "0028ebb6703cbc909a1d690adf8d05ea01ce19c45fcbcdd4bb51ae6f9d55b748",
+            "difficulty": 2
+        },
+        {
+            "index": 5,
+            "timestamp": 1744026388.97145,
+            "transactions": [
+                "Text mined: Go go go, hehehehe",
+                "Sentiment: POSITIVE, Confidence: 0.99",
+                "Reward: 99 pikachu"
+            ],
+            "previous_hash": "0028ebb6703cbc909a1d690adf8d05ea01ce19c45fcbcdd4bb51ae6f9d55b748",
+            "nonce": 11,
+            "hash": "00540d1cc1b63bc25674ad7906c5d82bfee4ce7e96fcc1e609e98e0391d77dca",
+            "difficulty": 2
+        },
+        {
+            "index": 6,
+            "timestamp": 1744026928.2977011,
+            "transactions": [
+                "Text mined: looks really ugly",
+                "Sentiment: NEGATIVE, Confidence: 1.0",
+                "Reward: 50 pikachu"
+            ],
+            "previous_hash": "00540d1cc1b63bc25674ad7906c5d82bfee4ce7e96fcc1e609e98e0391d77dca",
+            "nonce": 803,
+            "hash": "0010302c3ddb0f5c412d0b60d3e45e38a1f4fc56b0aa50040e637f5223e01190",
+            "difficulty": 2
+        },
+        {
+            "index": 7,
+            "timestamp": 1744027728.198412,
+            "transactions": [
+                "Text mined: chikli mikli boo",
+                "Sentiment: NEGATIVE, Confidence: 0.92",
+                "Reward: 46 pikachu"
+            ],
+            "previous_hash": "0010302c3ddb0f5c412d0b60d3e45e38a1f4fc56b0aa50040e637f5223e01190",
+            "nonce": 99,
+            "hash": "0032f6e7a869c88c94fc991c4c77348a0f720ae4ed67e5ace23a4c76e90c1fd7",
+            "difficulty": 2
+        },
+        {
+            "index": 8,
+            "timestamp": 1744028076.5683541,
+            "transactions": [
+                "Text mined: kikli mikli chikli tikli",
+                "Sentiment: POSITIVE, Confidence: 0.95",
+                "Reward: 95 pikachu"
+            ],
+            "previous_hash": "0032f6e7a869c88c94fc991c4c77348a0f720ae4ed67e5ace23a4c76e90c1fd7",
+            "nonce": 5,
+            "hash": "00ae060d7656262d6aa300c3ab29c236c88e5b9654a7113d2d4b61cf80471c70",
+            "difficulty": 2
+        },
+        {
+            "index": 9,
+            "timestamp": 1744029794.532251,
+            "transactions": [
+                "Text mined: ping ding",
+                "Sentiment: NEGATIVE, Confidence: 0.92",
+                "Reward: 46 pikachu"
+            ],
+            "previous_hash": "00ae060d7656262d6aa300c3ab29c236c88e5b9654a7113d2d4b61cf80471c70",
+            "nonce": 500,
+            "hash": "00378fd2d5017d1829d86924892f219e6bd66b3909bf346ceaf80010c8a25937",
+            "difficulty": 2
+        },
+        {
+            "index": 10,
+            "timestamp": 1744029934.7373009,
+            "transactions": [
+                "Text mined: lock lock in the cell, and curse",
+                "Sentiment: NEGATIVE, Confidence: 0.97",
+                "Reward: 48 Pikachu"
+            ],
+            "previous_hash": "00378fd2d5017d1829d86924892f219e6bd66b3909bf346ceaf80010c8a25937",
+            "nonce": 259,
+            "hash": "00f919344a85f5962c0205d7f5e81d401a075d14d4669e847050bbd4dc757949",
+            "difficulty": 2
+        },
+        {
+            "index": 11,
+            "timestamp": 1744051161.401537,
+            "transactions": [
+                "Text mined: Uneasy lies the head that wears the crown.",
+                "\u26a0\ufe0f Published content used \u2013 limited reward",
+                "Reward: 5 pikachu"
+            ],
+            "previous_hash": "00f919344a85f5962c0205d7f5e81d401a075d14d4669e847050bbd4dc757949",
+            "nonce": 523,
+            "hash": "003f1be32fbac34d98378eb78f3ce49997edd98e3fe2e0244d59860dd033c3f9",
+            "difficulty": 2
+        }
+    ]
+}
