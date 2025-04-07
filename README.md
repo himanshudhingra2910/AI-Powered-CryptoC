@@ -134,12 +134,16 @@ GET /shared/{user} – Retrieve a user’s shared moment.
    git clone https://github.com/himanshudhingra2910/AI-Powered-CryptoC.git
    cd AI-Powered-CryptoC
 
-2. Setup Python Environment: It is recommended to use a Conda environment:
+2. **Setup Python Environment: It is recommended to use a Conda environment:**
+```bash
 conda create -n crypto_env python=3.11
 conda activate crypto_env
 pip install -r requirements.txt
+```
 
-3.Run the API:
+3.**Run the API:**
+```bash
 uvicorn api.main:app --reload
+```
 
 
